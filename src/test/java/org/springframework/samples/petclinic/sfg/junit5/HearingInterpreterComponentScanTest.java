@@ -25,6 +25,6 @@ class HearingInterpreterComponentScanTest {
     void whatIheard() {
         String word = hearingInterpreter.whatIheard();
 
-        assertEquals("Laurel", word);
+        assertEquals("Yanny", word);
     }
 }
